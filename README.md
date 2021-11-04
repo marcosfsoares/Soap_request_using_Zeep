@@ -1,2 +1,2 @@
 # Soap_request_using_Zeep
-Simples integração SOAP com Python utilizando a biblioteca zeep
+Simple integration SOAP with Python using zeep library.
